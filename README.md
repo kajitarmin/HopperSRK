@@ -1,7 +1,7 @@
 # HopperSRK - Hopper Security Researchers Kit v2.0.0
 
-**Comprehensive security analysis suite for macOS binaries in Hopper Disassembler**
-
+<h3>HopperSRK is a collection of security analyzer plugins for Hopper Disassembler, designed for macOS malware analysis and binary security research.</h3>
+  
 <center><img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/ee51b1c6-f285-4595-b535-ac7f5ecddbb2" /></center>
 
 
